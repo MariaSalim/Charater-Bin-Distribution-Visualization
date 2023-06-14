@@ -13,9 +13,9 @@ This provides the data visualization for the frequency distribution of alphabets
    + Mouse click green colors the corresponding bin in the pie chart and the effect is gone in 1 second
    + Mouse over slightly increases height, displays the frequency label, and makes the corresponding bin opaque.
   
-Bar Chart:
+**Bar Chart:**
   ![image](https://github.com/MariaSalim/Charater-Bin-Distribution-Visualization/assets/67681138/d0f8521c-5857-4253-bd4a-9dafd14eec3c)
-Pie Chart:
+**Pie Chart:**
 ![image](https://github.com/MariaSalim/Charater-Bin-Distribution-Visualization/assets/67681138/6b76ba5b-f3db-48cc-b732-fc43afd391b5)
 
 Test the interactive features on: https://mariasalim.github.io/Charater-Bin-Distribution-Visualization/ 
