@@ -18,4 +18,4 @@ This provides the data visualization for the frequency distribution of alphabets
 **Pie Chart:**
 ![image](https://github.com/MariaSalim/Charater-Bin-Distribution-Visualization/assets/67681138/6b76ba5b-f3db-48cc-b732-fc43afd391b5)
 
-Test the interactive features on: https://mariasalim.github.io/Charater-Bin-Distribution-Visualization/ 
+Test it on: https://mariasalim.github.io/Charater-Bin-Distribution-Visualization/ 
